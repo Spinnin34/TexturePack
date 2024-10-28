@@ -1,0 +1,29 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:logo/logo.png",
+            "ascent": 66,
+            "height": 106,
+            "chars": ["㍿"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:logo/primates.png",
+            "ascent": 66,
+            "height": 106,
+            "chars": ["ぱ"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:logo/negro.png",
+            "ascent": 100,
+            "height": 800,
+            "chars": ["\uE000"]
+        }        
+
+
+
+
+    ]
+}
