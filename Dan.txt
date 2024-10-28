@@ -1,0 +1,13 @@
+cd /home/...
+git int
+git config --global user.email "ahmedomrane398@gmail.com"
+git config --global user.name "Spinnin34"
+git remote add origin https://github.com/tuusuario/mi-proyecto.git
+git add index.html o tambien git add .
+git commit -m "Añadir archivo index.html"
+git branch -M main
+git push origin main
+
+//para borrar
+
+git push backpack main --force #Para sobre escribir los datos
